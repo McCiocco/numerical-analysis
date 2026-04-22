@@ -1,7 +1,7 @@
 import numpy as np
 
 class LinearSystem:
-    "PRUZ"
+    
     def __init__(self, A : np.ndarray, b : np.ndarray):
         #A is a n by n matrix, b is a vector in R^n
 
