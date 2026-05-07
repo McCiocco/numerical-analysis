@@ -35,8 +35,7 @@
               "title": "4. Equazioni e sistemi non lineari"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8abc134f7abaa9e8",
+  "active": "b2a970324f4ed81c",
   "lastOpenFiles": [
-    "2. Richiami di Algebra Lineare.md",
     "4. Equazioni e sistemi non lineari.md",
+    "2. Richiami di Algebra Lineare.md",
     "3. Sistemi di Equazioni lineari.md",
     "A. Teorema delle Contrazioni (o di Banach).md",
     "1. Rappresentazione dei numeri e Teoria degli errori.md",
