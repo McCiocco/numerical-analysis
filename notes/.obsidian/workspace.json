@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Equazioni e sistemi non lineari.md",
+                "file": "2. Richiami di Algebra Lineare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Equazioni e sistemi non lineari"
+              "title": "2. Richiami di Algebra Lineare"
+            }
+          },
+          {
+            "id": "e82b14c740a9b7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Calcolo di autovalori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Calcolo di autovalori"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +214,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2a970324f4ed81c",
+  "active": "e82b14c740a9b7d6",
   "lastOpenFiles": [
-    "4. Equazioni e sistemi non lineari.md",
     "2. Richiami di Algebra Lineare.md",
+    "5. Calcolo di autovalori.md",
+    "4. Equazioni e sistemi non lineari.md",
     "3. Sistemi di Equazioni lineari.md",
     "A. Teorema delle Contrazioni (o di Banach).md",
     "1. Rappresentazione dei numeri e Teoria degli errori.md",
