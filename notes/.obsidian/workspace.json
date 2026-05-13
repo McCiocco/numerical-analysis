@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sufficentemente",
+                "query": "matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,12 +216,13 @@
   },
   "active": "ac9a0fc7c69d72ae",
   "lastOpenFiles": [
-    "3. Sistemi di Equazioni lineari.md",
-    "6. Il problema dei minimi quadrati.md",
-    "4. Equazioni e sistemi non lineari.md",
-    "5. Calcolo di autovalori.md",
-    "immagini/Screenshot from 2026-05-10 12-43-44.png",
     "2. Richiami di Algebra Lineare.md",
+    "6. Il problema dei minimi quadrati.md",
+    "5. Calcolo di autovalori.md",
+    "3. Sistemi di Equazioni lineari.md",
+    "Untitled.md",
+    "4. Equazioni e sistemi non lineari.md",
+    "immagini/Screenshot from 2026-05-10 12-43-44.png",
     "B. Il quoziente di Rayleigh.md",
     "dimostrazioni/4.4 Ordine del metodo delle secanti.md",
     "A. Teorema delle Contrazioni (o di Banach).md",
