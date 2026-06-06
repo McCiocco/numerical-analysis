@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "60c7f5d2414a9848",
@@ -229,6 +230,7 @@
   },
   "active": "188079a253fc95a3",
   "lastOpenFiles": [
+    "immagini/soldato.png",
     "5. Calcolo di autovalori.md",
     "7. Interpolazione ed approssimazione.md",
     "6. Il problema dei minimi quadrati.md",
