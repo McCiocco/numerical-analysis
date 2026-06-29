@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "raggio spettrale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +186,13 @@
   },
   "active": "967e18c93546ef48",
   "lastOpenFiles": [
-    "8. Integrazione numerica.md",
-    "1. Rappresentazione dei numeri e Teoria degli errori.md",
-    "7. Interpolazione ed approssimazione.md",
-    "4. Equazioni e sistemi non lineari.md",
-    "5. Calcolo di autovalori.md",
     "3. Sistemi di Equazioni lineari.md",
+    "4. Equazioni e sistemi non lineari.md",
     "6. Il problema dei minimi quadrati.md",
+    "1. Rappresentazione dei numeri e Teoria degli errori.md",
+    "5. Calcolo di autovalori.md",
+    "7. Interpolazione ed approssimazione.md",
+    "8. Integrazione numerica.md",
     "B. Il quoziente di Rayleigh.md",
     "Dispensa completa.md",
     "2. Richiami di Algebra Lineare.md",
