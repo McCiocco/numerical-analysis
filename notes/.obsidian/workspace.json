@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Equazioni e sistemi non lineari.md",
+                "file": "C. Resto integrale del polinomio di Taylor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Equazioni e sistemi non lineari"
+              "title": "C. Resto integrale del polinomio di Taylor"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "967e18c93546ef48",
   "lastOpenFiles": [
     "3. Sistemi di Equazioni lineari.md",
+    "2. Richiami di Algebra Lineare.md",
     "4. Equazioni e sistemi non lineari.md",
     "6. Il problema dei minimi quadrati.md",
     "1. Rappresentazione dei numeri e Teoria degli errori.md",
@@ -195,7 +196,6 @@
     "8. Integrazione numerica.md",
     "B. Il quoziente di Rayleigh.md",
     "Dispensa completa.md",
-    "2. Richiami di Algebra Lineare.md",
     "C. Resto integrale del polinomio di Taylor.md",
     "A. Teorema delle Contrazioni (o di Banach).md",
     "Untitled",
