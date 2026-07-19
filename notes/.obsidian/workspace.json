@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C. Resto integrale del polinomio di Taylor.md",
+                "file": "4. Equazioni e sistemi non lineari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C. Resto integrale del polinomio di Taylor"
+              "title": "4. Equazioni e sistemi non lineari"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "967e18c93546ef48",
   "lastOpenFiles": [
+    "C. Resto integrale del polinomio di Taylor.md",
     "3. Sistemi di Equazioni lineari.md",
     "2. Richiami di Algebra Lineare.md",
     "4. Equazioni e sistemi non lineari.md",
@@ -196,7 +197,6 @@
     "8. Integrazione numerica.md",
     "B. Il quoziente di Rayleigh.md",
     "Dispensa completa.md",
-    "C. Resto integrale del polinomio di Taylor.md",
     "A. Teorema delle Contrazioni (o di Banach).md",
     "Untitled",
     "dimostrazioni/4.4 Ordine del metodo delle secanti.md",
