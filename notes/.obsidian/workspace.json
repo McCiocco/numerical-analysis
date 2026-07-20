@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Equazioni e sistemi non lineari.md",
+                "file": "8. Integrazione numerica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Equazioni e sistemi non lineari"
+              "title": "8. Integrazione numerica"
             }
           }
         ]
@@ -186,18 +186,18 @@
   },
   "active": "967e18c93546ef48",
   "lastOpenFiles": [
+    "A. Teorema delle Contrazioni (o di Banach).md",
+    "7. Interpolazione ed approssimazione.md",
+    "6. Il problema dei minimi quadrati.md",
+    "4. Equazioni e sistemi non lineari.md",
     "C. Resto integrale del polinomio di Taylor.md",
     "3. Sistemi di Equazioni lineari.md",
     "2. Richiami di Algebra Lineare.md",
-    "4. Equazioni e sistemi non lineari.md",
-    "6. Il problema dei minimi quadrati.md",
     "1. Rappresentazione dei numeri e Teoria degli errori.md",
     "5. Calcolo di autovalori.md",
-    "7. Interpolazione ed approssimazione.md",
     "8. Integrazione numerica.md",
     "B. Il quoziente di Rayleigh.md",
     "Dispensa completa.md",
-    "A. Teorema delle Contrazioni (o di Banach).md",
     "Untitled",
     "dimostrazioni/4.4 Ordine del metodo delle secanti.md",
     "Glossario.md",
